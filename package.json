@@ -1,0 +1,27 @@
+{
+  "name": "filter-by-criteria",
+  "version": "1.0.0",
+  "description": "A generic filter function that uses an criteria object to filter an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keha94/filter-by-criteria.git"
+  },
+  "keywords": [
+    "filter",
+    "array"
+  ],
+  "author": "Kevin Ha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keha94/filter-by-criteria/issues"
+  },
+  "homepage": "https://github.com/keha94/filter-by-criteria#readme",
+  "dependencies": {
+    "moment": "^2.22.1",
+    "moment-range": "^4.0.1"
+  }
+}
